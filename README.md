@@ -15,3 +15,6 @@
 
 ![sst](results/sst_gps_S9.png)
 ![chl](results/chl_gps_b10.png)
+
+### More information about [Sky the whale shark](https://www.gis4-wildlife.com/galapagos-whale-shark-project)
+![sky](results/sky_sst.png)
